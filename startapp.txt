@@ -1,0 +1,11 @@
+Start Laravel Development Server:
+php artisan serve
+
+Admin:
+Email Address: nizar.kabbaj@gmail.com
+Password: 123456789
+
+
+User
+Email Address: nizar@gmail.com
+Password: 12345678
